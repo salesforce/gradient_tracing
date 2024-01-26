@@ -1,0 +1,12 @@
+1. relations_dicts.pkl contains the following dictionaries:
+original_relations has been collected from counterfact by collecting the prompts used in the edit requests for each relation.
+problem_relations are removed
+good_relations are kept as is
+corrected_relations are kept after replacing some prompts
+for each relation in corrected_relations, translations contains a dictionary translating old prompts to new prompts
+2. counterfact_convertor_to_tf.py takes counterfact.json, and creates curated_counterfact.json, counterfact_true.json
+and counterfact_false.json
+3. test_model_on_cftcff.py take counterfact_true.json or counterfact_false.json and runs it through vicuna-7b to calculate
+the probabilities of True and False outputs.
+4. check_threshold_breakdown.py computes the probability that the correct answer croesses a correctness threshold, prob_sum.py
+computes the probability of acceptable output format (either true or false).

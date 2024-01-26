@@ -1,0 +1,529 @@
+[
+	{
+		"original_statement_1": "Kangaroos use their tails for balance.",
+		"truth_value": true,
+		"negation": "Kangaroos do not use their tails for balance.",
+		"rephrases": [
+			{
+				"statement": "Kangaroos rely on their tails to maintain equilibrium.",
+				"negation": "Kangaroos do not rely on their tails to maintain equilibrium."
+			},
+			{
+				"statement": "A kangaroo's tail aids in balancing.",
+				"negation": "A kangaroo's tail does not aid in balancing."
+			}
+		],
+		"main_terms": [
+			{
+				"term_1": "kangaroos",
+				"term_1_statements": [
+					{
+						"statement": "Kangaroos are native to Australia.",
+						"truth_value": true,
+						"negation": "Kangaroos are not native to Australia."
+					},
+					{
+						"statement": "Kangaroos carry their young in pouches.",
+						"truth_value": true,
+						"negation": "Kangaroos do not carry their young in pouches."
+					},
+					{
+						"statement": "Kangaroos have wings.",
+						"truth_value": false,
+						"negation": "Kangaroos do not have wings."
+					},
+					{
+						"statement": "Kangaroos are primarily aquatic animals.",
+						"truth_value": false,
+						"negation": "Kangaroos are not primarily aquatic animals."
+					}
+				]
+			},
+			{
+				"term_2": "tails",
+				"term_2_statements": [
+					{
+						"statement": "Many mammals have tails.",
+						"truth_value": true,
+						"negation": "Not all mammals have tails."
+					},
+					{
+						"statement": "Tails are used for communication by some animals.",
+						"truth_value": true,
+						"negation": "Tails are not used for communication by some animals."
+					},
+					{
+						"statement": "Tails generate photosynthesis.",
+						"truth_value": false,
+						"negation": "Tails do not generate photosynthesis."
+					},
+					{
+						"statement": "Every animal on Earth has a tail.",
+						"truth_value": false,
+						"negation": "Not every animal on Earth has a tail."
+					}
+				]
+			},
+			{
+				"term_3": "balance",
+				"term_3_statements": [
+					{
+						"statement": "Balance is important for movement.",
+						"truth_value": true,
+						"negation": "Balance is not important for movement."
+					},
+					{
+						"statement": "Humans use their ears to help maintain balance.",
+						"truth_value": true,
+						"negation": "Humans do not use their ears to help maintain balance."
+					},
+					{
+						"statement": "Elephants balance on their trunks when sleeping.",
+						"truth_value": false,
+						"negation": "Elephants do not balance on their trunks when sleeping."
+					},
+					{
+						"statement": "Humans have a third leg for balance.",
+						"truth_value": false,
+						"negation": "Humans do not have a third leg for balance."
+					}
+				]
+			}
+		]
+	},
+	{
+		"original_statement_2": "Lions are herbivores.",
+		"truth_value": false,
+		"negation": "Lions are not herbivores.",
+		"rephrases": [
+			{
+				"statement": "Lions primarily consume plants.",
+				"negation": "Lions do not primarily consume plants."
+			},
+			{
+				"statement": "Lions eat a plant-based diet.",
+				"negation": "Lions do not eat a plant-based diet."
+			}
+		],
+		"main_terms": [
+			{
+				"term_1": "lions",
+				"term_1_statements": [
+					{
+						"statement": "Male lions have manes.",
+						"truth_value": true,
+						"negation": "Male lions do not have manes."
+					},
+					{
+						"statement": "Lions are part of the feline family.",
+						"truth_value": true,
+						"negation": "Lions are not part of the feline family."
+					},
+					{
+						"statement": "Lions are native to Antarctica.",
+						"truth_value": false,
+						"negation": "Lions are not native to Antarctica."
+					},
+					{
+						"statement": "Lions are a species of bird.",
+						"truth_value": false,
+						"negation": "Lions are not a species of bird."
+					}
+				]
+			},
+			{
+				"term_2": "herbivores",
+				"term_2_statements": [
+					{
+						"statement": "Herbivores eat only plants.",
+						"truth_value": true,
+						"negation": "Herbivores do not eat only plants."
+					},
+					{
+						"statement": "Cows are herbivores.",
+						"truth_value": true,
+						"negation": "Cows are not herbivores."
+					},
+					{
+						"statement": "All herbivores can fly.",
+						"truth_value": false,
+						"negation": "Not all herbivores can fly."
+					},
+					{
+						"statement": "Herbivores consume meat.",
+						"truth_value": false,
+						"negation": "Herbivores do not consume meat."
+					}
+				]
+			}
+		]
+	},
+	{
+		"original_statement_3": "Whales are marine mammals that breathe air.",
+		"truth_value": true,
+		"negation": "Whales are not marine mammals that breathe air.",
+		"rephrases": [
+			{
+				"statement": "Whales, while living in the sea, breathe atmospheric air.",
+				"negation": "Whales, while living in the sea, do not breathe atmospheric air."
+			},
+			{
+				"statement": "In spite of being marine creatures, whales breathe air.",
+				"negation": "In spite of being marine creatures, whales do not breathe air."
+			}
+		],
+		"main_terms": [
+			{
+				"term_1": "whales",
+				"term_1_statements": [
+					{
+						"statement": "Whales can swim.",
+						"truth_value": true,
+						"negation": "Whales cannot swim."
+					},
+					{
+						"statement": "Whales are the largest animals on Earth.",
+						"truth_value": true,
+						"negation": "Whales are not the largest animals on Earth."
+					},
+					{
+						"statement": "Whales have feathers.",
+						"truth_value": false,
+						"negation": "Whales do not have feathers."
+					},
+					{
+						"statement": "Whales live in deserts.",
+						"truth_value": false,
+						"negation": "Whales do not live in deserts."
+					}
+				]
+			},
+			{
+				"term_2": "marine",
+				"term_2_statements": [
+					{
+						"statement": "Cats are marine animals.",
+						"truth_value": false,
+						"negation": "Cats are not marine animals."
+					},
+					{
+						"statement": "Coral reefs are marine ecosystems.",
+						"truth_value": true,
+						"negation": "Coral reefs are not marine ecosystems."
+					},
+					{
+						"statement": "A desert is a marine habitat.",
+						"truth_value": false,
+						"negation": "A desert is not a marine habitat."
+					},
+					{
+						"statement": "Penguins are marine birds.",
+						"truth_value": true,
+						"negation": "Penguins are not marine birds."
+					}
+				]
+			},
+			{
+				"term_3": "mammals",
+				"term_3_statements": [
+					{
+						"statement": "Mammals give birth to live young.",
+						"truth_value": true,
+						"negation": "Mammals do not give birth to live young."
+					},
+					{
+						"statement": "Mammals have mammary glands.",
+						"truth_value": true,
+						"negation": "Mammals do not have mammary glands."
+					},
+					{
+						"statement": "All mammals can fly.",
+						"truth_value": false,
+						"negation": "Not all mammals can fly."
+					},
+					{
+						"statement": "Mammals have scales.",
+						"truth_value": false,
+						"negation": "Mammals do not have scales."
+					}
+				]
+			},
+			{
+				"term_4": "air",
+				"term_4_statements": [
+					{
+						"statement": "Air is composed primarily of nitrogen and oxygen.",
+						"truth_value": true,
+						"negation": "Air is not composed primarily of nitrogen and oxygen."
+					},
+					{
+						"statement": "Humans need air to breathe.",
+						"truth_value": true,
+						"negation": "Humans do not need air to breathe."
+					},
+					{
+						"statement": "Air can be seen with the naked eye.",
+						"truth_value": false,
+						"negation": "Air cannot be seen with the naked eye."
+					},
+					{
+						"statement": "Air is primarily made of helium.",
+						"truth_value": false,
+						"negation": "Air is not primarily made of helium."
+					}
+				]
+			}
+		]
+	},
+	{
+		"original_statement_4": "Bats are diurnal animals.",
+		"truth_value": false,
+		"negation": "Bats are not diurnal animals.",
+		"rephrases": [
+			{
+				"statement": "Bats are active during the day.",
+				"negation": "Bats are not active during the day."
+			},
+			{
+				"statement": "The daytime is when bats typically function.",
+				"negation": "The daytime is not when bats typically function."
+			}
+		],
+		"main_terms": [
+			{
+				"term_1": "bats",
+				"term_1_statements": [
+					{
+						"statement": "Bats are mammals.",
+						"truth_value": true,
+						"negation": "Bats are not mammals."
+					},
+					{
+						"statement": "Bats use echolocation.",
+						"truth_value": true,
+						"negation": "Bats do not use echolocation."
+					},
+					{
+						"statement": "Bats photosynthesize.",
+						"truth_value": false,
+						"negation": "Bats do not photosynthesize."
+					},
+					{
+						"statement": "Bats have feathers.",
+						"truth_value": false,
+						"negation": "Bats do not have feathers."
+					}
+				]
+			},
+			{
+				"term_2": "diurnal",
+				"term_2_statements": [
+					{
+						"statement": "Most birds are diurnal.",
+						"truth_value": true,
+						"negation": "Most birds are not diurnal."
+					},
+					{
+						"statement": "Diurnal is the opposite of nocturnal.",
+						"truth_value": true,
+						"negation": "Diurnal is not the opposite of nocturnal."
+					},
+					{
+						"statement": "Diurnal creatures are active during the night.",
+						"truth_value": false,
+						"negation": "Diurnal creatures are not active during the night."
+					},
+					{
+						"statement": "Owls are primarily diurnal birds.",
+						"truth_value": false,
+						"negation": "Owls are not primarily diurnal birds."
+					}
+				]
+			},
+			{
+				"term_3": "animals",
+				"term_3_statements": [
+					{
+						"statement": "Animals are living organisms.",
+						"truth_value": true,
+						"negation": "Animals are not living organisms."
+					},
+					{
+						"statement": "Zoos display animals.",
+						"truth_value": true,
+						"negation": "Zoos do not display animals."
+					},
+					{
+						"statement": "Trees are animals.",
+						"truth_value": false,
+						"negation": "Trees are not animals."
+					},
+					{
+						"statement": "All animals have wings.",
+						"truth_value": false,
+						"negation": "Not all animals have wings."
+					}
+				]
+			}
+		]
+	},
+	{
+		"original_statement_5": "Giraffes have short necks.",
+		"truth_value": false,
+		"negation": "Giraffes do not have short necks.",
+		"rephrases": [
+			{
+				"statement": "The neck of a giraffe is short.",
+				"negation": "The neck of a giraffe is not short."
+			},
+			{
+				"statement": "Short necks are a characteristic of giraffes.",
+				"negation": "Short necks are not a characteristic of giraffes."
+			}
+		],
+		"main_terms": [
+			{
+				"term_1": "giraffes",
+				"term_1_statements": [
+					{
+						"statement": "Giraffes are herbivores.",
+						"truth_value": true,
+						"negation": "Giraffes are not herbivores."
+					},
+					{
+						"statement": "Giraffes have spotted coats.",
+						"truth_value": true,
+						"negation": "Giraffes do not have spotted coats."
+					},
+					{
+						"statement": "Giraffes can fly.",
+						"truth_value": false,
+						"negation": "Giraffes cannot fly."
+					},
+					{
+						"statement": "Giraffes are aquatic creatures.",
+						"truth_value": false,
+						"negation": "Giraffes are not aquatic creatures."
+					}
+				]
+			},
+			{
+				"term_2": "necks",
+				"term_2_statements": [
+					{
+						"statement": "Humans have necks.",
+						"truth_value": true,
+						"negation": "Humans do not have necks."
+					},
+					{
+						"statement": "Necks connect the head to the body.",
+						"truth_value": true,
+						"negation": "Necks do not connect the head to the body."
+					},
+					{
+						"statement": "Frogs have elongated necks.",
+						"truth_value": false,
+						"negation": "Frogs do not have elongated necks."
+					},
+					{
+						"statement": "The throat is the back part of the neck.",
+						"truth_value": false,
+						"negation": "The throat is not the back part of the neck."
+					}
+				]
+			}
+		]
+	},
+	{
+		"original_statement_6": "Pigs wallow in mud to regulate temperature.",
+		"truth_value": true,
+		"negation": "Pigs do not wallow in mud to regulate temperature.",
+		"rephrases": [
+			{
+				"statement": "Pigs use mud as a way to lower their body temperature.",
+				"negation": "Pigs do not use mud as a way to lower their body temperature."
+			},
+			{
+				"statement": "To cool off, pigs often immerse themselves in mud.",
+				"negation": "To cool off, pigs do not often immerse themselves in mud."
+			}
+		],
+		"main_terms": [
+			{
+				"term_1": "pigs",
+				"term_1_statements": [
+					{
+						"statement": "Pigs are farm animals.",
+						"truth_value": true,
+						"negation": "Pigs are not farm animals."
+					},
+					{
+						"statement": "Pigs can fly.",
+						"truth_value": false,
+						"negation": "Pigs cannot fly."
+					},
+					{
+						"statement": "Pigs are omnivores.",
+						"truth_value": true,
+						"negation": "Pigs are not omnivores."
+					},
+					{
+						"statement": "Pigs breathe underwater.",
+						"truth_value": false,
+						"negation": "Pigs cannot breathe underwater."
+					}
+				]
+			},
+			{
+				"term_2": "mud",
+				"term_2_statements": [
+					{
+						"statement": "Mud is wet soil.",
+						"truth_value": true,
+						"negation": "Mud is not wet soil."
+					},
+					{
+						"statement": "Mud is often used in beauty treatments.",
+						"truth_value": true,
+						"negation": "Mud is not often used in beauty treatments."
+					},
+					{
+						"statement": "Mud was never used in construction.",
+						"truth_value": false,
+						"negation": "Mud was used in construction."
+					},
+					{
+						"statement": "All deserts are filled with mud.",
+						"truth_value": false,
+						"negation": "Not all deserts are filled with mud."
+					}
+				]
+			},
+			{
+				"term_3": "temperature",
+				"term_3_statements": [
+					{
+						"statement": "Temperature can be measured in Celsius or Fahrenheit.",
+						"truth_value": true,
+						"negation": "Temperature cannot be measured in Celsius or Fahrenheit."
+					},
+					{
+						"statement": "The temperature of steam is higher than the temperature of ice.",
+						"truth_value": true,
+						"negation": "The temperature of steam is not higher than the temperature of ice."
+					},
+					{
+						"statement": "The temperature in Earth's core is lower than the temperature on its surface.",
+						"truth_value": false,
+						"negation": "The temperature in Earth's core is not lower than the temperature on its surface."
+					},
+					{
+						"statement": "Absolute zero is the temperature where particles have the highest kinetic energy.",
+						"truth_value": false,
+						"negation": "Absolute zero is not the temperature where particles have the highest kinetic energy."
+					}
+				]
+			}
+		]
+	}
+]

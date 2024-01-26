@@ -1,0 +1,17 @@
+1. Packages to install:
+pip install scipy
+pip install scikit-learn
+pip install nltk
+pip install datasets
+pip install matplotlib
+pip install transformers
+pip install hydra-core
+pip install higher
+pip install einops
+pip install apache_beam
+pip install sentencepiece
+pip install --force-reinstall -v "transformers==4.30.2"
+pip install --force-reinstall -v "protobuf==3.20.3"
+
+2. run nltksolver.py once
+
