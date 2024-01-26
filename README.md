@@ -1,6 +1,15 @@
-# README
+# Editing Arbitrary Propositions in LLMs without Subject Labels
 
-A repo containing all the basic file templates and general guidelines for any open source project at Salesforce.
+A repo containing all the code for reproducing the experiment results in the paper.
+
+```
+@article{feigenbaum2024editing,
+  title={Editing Arbitrary Propositions in LLMs without Subject Labels},
+  author={Feigenbaum, Itai and Arpit, Devansh and Wang, Huan and Heinecke, Shelby and Niebles, Juan Carlos and Yao, Weiran and Xiong, Caiming and Savarese, Silvio},
+  journal={arXiv preprint arXiv:2401.07526},
+  year={2024}
+}
+```
 
 ## Usage
 
