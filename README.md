@@ -15,7 +15,7 @@ This is a work in progress and is not yet properly organized and documented. Ple
 
 # Acknowledgements
 
-Much of the code here is taken, either as-is or modified, from the [ROME repository](https://github.com/kmeng01/rome), which contains the code for the paper "Locating and Editing Factual Associations in GPT" by Meng et al. (NeurIPS 2022)
+Much of the code here is taken, either as-is or modified, from the [ROME repository](https://github.com/kmeng01/rome), which contains the code for the paper "Locating and Editing Factual Associations in GPT" by Meng et al. (NeurIPS 2022).
 
 ## Usage
 
